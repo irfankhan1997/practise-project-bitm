@@ -16,7 +16,7 @@
 } */
 
 .carousel-caption{
-    margin-bottom: 280px !important;
+    margin-bottom: 150px !important;
 }
 .carousel-caption p{
     text-align: center;
@@ -28,6 +28,7 @@
     color: #07c7c0;
     border: 1px solid #07c7c0 ;
     font-weight: 700;
+ background-color: gray;
     
  
 
