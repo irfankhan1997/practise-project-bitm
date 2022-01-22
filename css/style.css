@@ -1,0 +1,34 @@
+.nav-container{
+    background-color:rgb(46, 39, 76);
+    opacity: 0.85;
+}
+.navbar-nav a:hover{
+    color: #07c7c0 !important;
+    
+}
+/* .navbar-nav a:visited {
+    color: #07c7c0 !important;
+
+}
+.navbar-nav a:active{
+    color: #07c7c0 !important;
+
+} */
+
+.carousel-caption{
+    margin-bottom: 280px !important;
+}
+.carousel-caption p{
+    text-align: center;
+}
+
+ button{
+    width: 130px;
+    height: 35px;
+    color: #07c7c0 !important;
+    border: 1px solid #07c7c0 ;
+    font-weight: 700;
+ 
+
+
+}
